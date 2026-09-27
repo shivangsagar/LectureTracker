@@ -48,13 +48,10 @@ The number of remaining lectures is calculated as:
 
 ## Screenshots
 
-### Subject Progress
-
-![Subject Progress](screenshots/home.png)
-
-### Multiple Subjects
-
-![Multiple Subjects](screenshots/multiple-subjects.png)
+<p align="center">
+  <img src="screenshots/home.png" width="300">
+  <img src="screenshots/multiple-subjects.png" width="300">
+</p>
 
 The app displays each subject along with its total lectures, remaining
 lectures, and completion percentage.
