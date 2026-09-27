@@ -49,8 +49,8 @@ The number of remaining lectures is calculated as:
 ## Screenshots
 
 <p align="center">
-  <img src="screenshots/home.png" width="300">
-  <img src="screenshots/multiple-subjects.png" width="300">
+  <img src="screenshots/home.png" width="200">
+  <img src="screenshots/multiple-subjects.png" width="200">
 </p>
 
 The app displays each subject along with its total lectures, remaining
@@ -99,7 +99,7 @@ LectureTracker/
 
 ## Download
 
-[**Download LectureTracker APK**](apk/LectureTracker.apk)
+[**Download LectureTracker APK**](https://github.com/shivangsagar/LectureTracker/releases/latest/download/LectureTracker.apk)
 
 ## Installation
 
