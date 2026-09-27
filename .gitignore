@@ -1,0 +1,29 @@
+# Gradle
+.gradle/
+**/build/
+
+# Local configuration
+local.properties
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+
+# Kotlin
+.kotlin/
+
+# OS generated files
+.DS_Store
+
+# Android build/captures
+captures/
+
+# Native build
+.externalNativeBuild/
+.cxx/
+
+# Generated files
+.navigation/
+
+# Generated release files
+app/release/
