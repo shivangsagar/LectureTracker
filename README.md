@@ -121,7 +121,8 @@ or later**.
 
 ## License
 
-This project is currently available for personal and educational use.
+This project is licensed under the MIT License.
+See the [LICENSE](LICENSE) file for details.
 
 ## Author
 
